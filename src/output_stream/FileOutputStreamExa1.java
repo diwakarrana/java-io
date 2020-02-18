@@ -6,7 +6,7 @@ public class FileOutputStreamExa1 {
 	public static void main(String[] args) {
 		
 		try {
-			FileOutputStream fos = new FileOutputStream("D://io/a.txt");
+			FileOutputStream fos = new FileOutputStream("D://io/f.txt");
 			fos.write(66);
 			fos.write(66);
 			fos.write(75);
