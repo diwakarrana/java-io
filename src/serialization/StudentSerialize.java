@@ -15,6 +15,6 @@ public class StudentSerialize {
 		oos.writeObject(st);
 		oos.flush();
 		oos.close();
-		System.out.println("succeed");
+		System.out.println("succeed ...");
 	}
 }
